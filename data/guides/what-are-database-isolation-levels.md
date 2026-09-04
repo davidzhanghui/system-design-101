@@ -1,14 +1,15 @@
 ---
-title: "Database Isolation Levels"
-description: "Explore database isolation levels and their impact on transaction concurrency."
-image: "https://assets.bytebytego.com/diagrams/0239-isolation-level.png"
-createdAt: "2024-02-03"
+title: Database Isolation Levels
+description: Explore database isolation levels and their impact on transaction concurrency.
+image: 'https://assets.bytebytego.com/diagrams/0239-isolation-level.png'
+createdAt: '2024-02-03'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Databases"
-  - "Transactions"
+  - Databases
+  - Transactions
+titleZh: 数据库事务隔离级别（Isolation Levels）与并发异常剖析
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0239-isolation-level.png)

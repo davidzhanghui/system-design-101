@@ -1,6 +1,6 @@
 ---
-title: 'Top 9 HTTP Request Methods'
-description: 'Explore the top 9 HTTP request methods with clear explanations.'
+title: Top 9 HTTP Request Methods
+description: Explore the top 9 HTTP request methods with clear explanations.
 image: 'https://assets.bytebytego.com/diagrams/0371-top-9-http-request-methods.png'
 createdAt: '2024-02-27'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - HTTP
   - API
+titleZh: 9 种常用 HTTP 请求方法详解
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0371-top-9-http-request-methods.png)

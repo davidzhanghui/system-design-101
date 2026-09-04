@@ -1,14 +1,15 @@
 ---
-title: "Smooth Data Migration with Avro"
-description: "Learn how Apache Avro facilitates smooth data migration with schema evolution."
-image: "https://assets.bytebytego.com/diagrams/0080-avro.png"
-createdAt: "2024-02-01"
+title: Smooth Data Migration with Avro
+description: Learn how Apache Avro facilitates smooth data migration with schema evolution.
+image: 'https://assets.bytebytego.com/diagrams/0080-avro.png'
+createdAt: '2024-02-01'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Data Migration"
-  - "Apache Avro"
+  - Data Migration
+  - Apache Avro
+titleZh: 借助 Apache Avro 实现无缝在线数据迁移
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0080-avro.png)

@@ -1,7 +1,8 @@
 ---
 title: What is CSS (Cascading Style Sheets)?
 description: CSS is a markup language for describing the presentation of web pages.
-image: 'https://assets.bytebytego.com/diagrams/0408-what-is-css-cascading-style-sheets.png'
+image: >-
+  https://assets.bytebytego.com/diagrams/0408-what-is-css-cascading-style-sheets.png
 createdAt: '2024-02-03'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - CSS
   - Web Development
+titleZh: 什么是 CSS（层叠样式表）？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0408-what-is-css-cascading-style-sheets.png)

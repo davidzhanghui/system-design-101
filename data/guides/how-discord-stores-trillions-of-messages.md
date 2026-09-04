@@ -9,6 +9,7 @@ categories:
 tags:
   - Databases
   - Architecture
+titleZh: Discord 如何借助 ScyllaDB 存储与索引数万亿条消息？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0174-discord-store-messages.png)

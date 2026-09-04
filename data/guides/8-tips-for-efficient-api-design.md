@@ -1,7 +1,8 @@
 ---
-title: '8 Tips for Efficient API Design'
-description: 'Improve your API design with these 8 essential tips for efficiency.'
-image: 'https://assets.bytebytego.com/diagrams/0385-top-8-tips-for-restful-api-design.png'
+title: 8 Tips for Efficient API Design
+description: Improve your API design with these 8 essential tips for efficiency.
+image: >-
+  https://assets.bytebytego.com/diagrams/0385-top-8-tips-for-restful-api-design.png
 createdAt: '2024-02-08'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - API Design
   - Best Practices
+titleZh: 高效 API 设计的 8 个黄金法则
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0385-top-8-tips-for-restful-api-design.png)

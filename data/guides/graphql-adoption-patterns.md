@@ -1,6 +1,6 @@
 ---
-title: 'GraphQL Adoption Patterns'
-description: 'Explore 4 popular GraphQL adoption patterns for your team.'
+title: GraphQL Adoption Patterns
+description: Explore 4 popular GraphQL adoption patterns for your team.
 image: 'https://assets.bytebytego.com/diagrams/0208-graphql-adoption-patterns.png'
 createdAt: '2024-02-13'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - GraphQL
   - API
+titleZh: GraphQL 落地与架构采纳模式
 ---
 ![](https://assets.bytebytego.com/diagrams/0208-graphql-adoption-patterns.png)
 

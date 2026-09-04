@@ -1,7 +1,8 @@
 ---
 title: A Cheatsheet to Build Secure APIs
 description: Concise strategies for building secure APIs to protect your application.
-image: https://assets.bytebytego.com/diagrams/0064-a-cheatsheet-to-build-secure-apis.png
+image: >-
+  https://assets.bytebytego.com/diagrams/0064-a-cheatsheet-to-build-secure-apis.png
 createdAt: '2024-02-23'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - API Security
   - Security
+titleZh: 构建安全 API 的最佳实践速查表
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0064-a-cheatsheet-to-build-secure-apis.png)

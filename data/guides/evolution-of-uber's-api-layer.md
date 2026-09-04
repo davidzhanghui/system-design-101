@@ -9,6 +9,7 @@ categories:
 tags:
   - API Gateway
   - Microservices
+titleZh: Uber API 网关与网格层的演化过程
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0397-uber-api-layer.png)

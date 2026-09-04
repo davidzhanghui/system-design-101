@@ -9,6 +9,7 @@ categories:
 tags:
   - Architecture
   - Streaming
+titleZh: Netflix 完整技术栈全景图
 ---
 
 This post is based on research from many Netflix engineering blogs and open-source projects. If you come across any inaccuracies, please feel free to inform us.

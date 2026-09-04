@@ -1,6 +1,6 @@
 ---
-title: 'How Netflix Scales Push Messaging'
-description: 'Explore how Netflix scales push messaging for millions of devices.'
+title: How Netflix Scales Push Messaging
+description: Explore how Netflix scales push messaging for millions of devices.
 image: 'https://assets.bytebytego.com/diagrams/0291-netflix-pn.png'
 createdAt: '2024-02-28'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - System Design
   - Push Notifications
+titleZh: Netflix 如何为数以亿计的终端设备扩展推送消息系统？
 ---
 
 This post draws from an article published on Netflix’s engineering blog. Here’s my understanding of how the online streaming giant’s system works.

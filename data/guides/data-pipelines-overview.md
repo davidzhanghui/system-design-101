@@ -9,6 +9,7 @@ categories:
 tags:
   - data-pipelines
   - data-processing
+titleZh: 现代数据管道（Data Pipelines）全景概述
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0157-data-pipeline-overview.png)

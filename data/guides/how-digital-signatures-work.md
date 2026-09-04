@@ -1,14 +1,15 @@
 ---
-title: "How Digital Signatures Work"
-description: "Learn how digital signatures work to secure electronic documents."
-image: "https://assets.bytebytego.com/diagrams/0219-how-digital-signatures-work.png"
-createdAt: "2024-02-24"
+title: How Digital Signatures Work
+description: Learn how digital signatures work to secure electronic documents.
+image: 'https://assets.bytebytego.com/diagrams/0219-how-digital-signatures-work.png'
+createdAt: '2024-02-24'
 draft: false
 categories:
   - security
 tags:
   - Cryptography
   - Security
+titleZh: 数字签名（Digital Signature）的工作原理与防伪校验
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0219-how-digital-signatures-work.png)

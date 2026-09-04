@@ -1,14 +1,15 @@
 ---
-title: "Differences in Event Sourcing System Design"
-description: "Explore the nuances of event sourcing system design and its benefits."
-image: "https://assets.bytebytego.com/diagrams/0188-event-sourcing.jpeg"
-createdAt: "2024-02-08"
+title: Differences in Event Sourcing System Design
+description: Explore the nuances of event sourcing system design and its benefits.
+image: 'https://assets.bytebytego.com/diagrams/0188-event-sourcing.jpeg'
+createdAt: '2024-02-08'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "event sourcing"
-  - "system design"
+  - event sourcing
+  - system design
+titleZh: 事件溯源（Event Sourcing）系统设计要点与差异
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0188-event-sourcing.jpeg)

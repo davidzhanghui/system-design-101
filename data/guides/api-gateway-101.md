@@ -1,5 +1,5 @@
 ---
-title: 'API Gateway 101'
+title: API Gateway 101
 description: 'Learn the fundamentals of API Gateways: functions, benefits, and more.'
 image: 'https://assets.bytebytego.com/diagrams/0074-api-gateway-101.png'
 createdAt: '2024-02-15'
@@ -9,6 +9,7 @@ categories:
 tags:
   - API Gateway
   - Microservices
+titleZh: API 网关（API Gateway）入门与核心原理
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0074-api-gateway-101.png)

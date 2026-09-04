@@ -9,6 +9,7 @@ categories:
 tags:
   - System Design
   - Recommendation Systems
+titleZh: Twitter 如何在 1.5 秒内完成“为你推荐”信息流生成？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0121-twitter-serving-pipeline.jpeg)

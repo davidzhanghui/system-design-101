@@ -1,6 +1,6 @@
 ---
-title: 'Proxy vs Reverse Proxy'
-description: 'Understanding the differences between forward and reverse proxies.'
+title: Proxy vs Reverse Proxy
+description: Understanding the differences between forward and reverse proxies.
 image: 'https://assets.bytebytego.com/diagrams/0196-forward-proxy-vs-reverse-proxy.png'
 createdAt: '2024-03-01'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - Networking
   - Security
+titleZh: 正向代理与反向代理深度对比
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0196-forward-proxy-vs-reverse-proxy.png)

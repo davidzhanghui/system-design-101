@@ -1,14 +1,15 @@
 ---
-title: "How does SSH work?"
-description: "Explore the inner workings of SSH, a secure network protocol."
-image: "https://assets.bytebytego.com/diagrams/0224-how-does-ssh-work.png"
-createdAt: "2024-03-05"
+title: How does SSH work?
+description: 'Explore the inner workings of SSH, a secure network protocol.'
+image: 'https://assets.bytebytego.com/diagrams/0224-how-does-ssh-work.png'
+createdAt: '2024-03-05'
 draft: false
 categories:
   - security
 tags:
-  - "SSH"
-  - "Security"
+  - SSH
+  - Security
+titleZh: SSH 是如何实现安全远程连接与加密通信的？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0224-how-does-ssh-work.png)

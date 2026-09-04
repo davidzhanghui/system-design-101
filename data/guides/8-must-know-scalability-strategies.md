@@ -1,14 +1,16 @@
 ---
-title: "8 Must-Know Scalability Strategies"
-description: "Explore 8 essential strategies to effectively scale your system."
-image: "https://assets.bytebytego.com/diagrams/0013-8-must-know-strategies-to-scale-your-system.png"
-createdAt: "2024-01-27"
+title: 8 Must-Know Scalability Strategies
+description: Explore 8 essential strategies to effectively scale your system.
+image: >-
+  https://assets.bytebytego.com/diagrams/0013-8-must-know-strategies-to-scale-your-system.png
+createdAt: '2024-01-27'
 draft: false
 categories:
   - cloud-distributed-systems
 tags:
-  - "Scalability"
-  - "System Design"
+  - Scalability
+  - System Design
+titleZh: 构建高并发系统必知的 8 种可扩展性策略
 ---
 
 What do Amazon, Netflix, and Uber have in common? They are extremely good at scaling their system whenever needed.

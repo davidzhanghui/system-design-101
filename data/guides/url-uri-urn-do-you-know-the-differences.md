@@ -9,6 +9,7 @@ categories:
 tags:
   - Networking
   - Web
+titleZh: 一文厘清 URL、URI 与 URN 的本质区别
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0401-url-uri-urn.png)

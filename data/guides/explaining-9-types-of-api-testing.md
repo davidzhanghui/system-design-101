@@ -1,6 +1,6 @@
 ---
-title: 'Explaining 9 Types of API Testing'
-description: 'Learn about 9 different types of API testing with detailed explanations.'
+title: Explaining 9 Types of API Testing
+description: Learn about 9 different types of API testing with detailed explanations.
 image: 'https://assets.bytebytego.com/diagrams/0017-9-types-of-api-testing.png'
 createdAt: '2024-03-10'
 draft: false
@@ -10,6 +10,7 @@ categories:
 tags:
   - API Testing
   - Software Testing
+titleZh: 一张图看懂 9 种 API 测试类型
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0017-9-types-of-api-testing.png)

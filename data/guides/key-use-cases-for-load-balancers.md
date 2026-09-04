@@ -1,6 +1,6 @@
 ---
-title: 'Key Use Cases for Load Balancers'
-description: 'Explore key use cases for load balancers in modern architectures.'
+title: Key Use Cases for Load Balancers
+description: Explore key use cases for load balancers in modern architectures.
 image: 'https://assets.bytebytego.com/diagrams/0046-top-6-load-balancer-use-cases.png'
 createdAt: '2024-02-04'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - Load Balancing
   - Scalability
+titleZh: 负载均衡器的核心使用场景
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0046-top-6-load-balancer-use-cases.png)

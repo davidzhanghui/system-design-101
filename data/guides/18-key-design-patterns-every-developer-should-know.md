@@ -1,14 +1,15 @@
 ---
-title: "18 Key Design Patterns Every Developer Should Know"
-description: "Explore 18 essential design patterns for efficient software development."
-image: "https://assets.bytebytego.com/diagrams/0032-oo-patterns-you-should-know.png"
-createdAt: "2024-03-02"
+title: 18 Key Design Patterns Every Developer Should Know
+description: Explore 18 essential design patterns for efficient software development.
+image: 'https://assets.bytebytego.com/diagrams/0032-oo-patterns-you-should-know.png'
+createdAt: '2024-03-02'
 draft: false
 categories:
   - software-architecture
 tags:
-  - "design patterns"
-  - "software development"
+  - design patterns
+  - software development
+titleZh: 每个开发者都应掌握的 18 个核心设计模式
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0032-oo-patterns-you-should-know.png)

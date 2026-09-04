@@ -1,14 +1,15 @@
 ---
-title: "Storage Systems Overview"
-description: "A detailed overview of block, file, and object storage systems."
-image: "https://assets.bytebytego.com/diagrams/0346-storage-system.png"
-createdAt: "2024-02-13"
+title: Storage Systems Overview
+description: 'A detailed overview of block, file, and object storage systems.'
+image: 'https://assets.bytebytego.com/diagrams/0346-storage-system.png'
+createdAt: '2024-02-13'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Storage Systems"
-  - "Data Storage"
+  - Storage Systems
+  - Data Storage
+titleZh: 现代存储系统架构全景概述
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0346-storage-system.png)

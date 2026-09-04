@@ -9,6 +9,7 @@ categories:
 tags:
   - HTTP2
   - Performance
+titleZh: HTTP/2 究竟凭什么比 HTTP/1.x 更快？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0421-why-http2-is-faster-than-http1.png)

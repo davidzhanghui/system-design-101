@@ -1,14 +1,15 @@
 ---
-title: "What is Serverless DB?"
-description: "Explore serverless databases, their benefits, and how they differ."
-image: "https://assets.bytebytego.com/diagrams/0329-serverlessdb.jpeg"
-createdAt: "2024-02-24"
+title: What is Serverless DB?
+description: 'Explore serverless databases, their benefits, and how they differ.'
+image: 'https://assets.bytebytego.com/diagrams/0329-serverlessdb.jpeg'
+createdAt: '2024-02-24'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Serverless"
-  - "Database"
+  - Serverless
+  - Database
+titleZh: 什么是 Serverless 无服务器数据库？架构与优势
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0329-serverlessdb.jpeg)

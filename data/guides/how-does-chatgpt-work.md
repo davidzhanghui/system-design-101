@@ -9,6 +9,7 @@ categories:
 tags:
   - ChatGPT
   - Machine Learning
+titleZh: ChatGPT 底层原理与大语言模型（LLM）是如何工作的？
 ---
 ![](https://assets.bytebytego.com/diagrams/0135-chat-gpt.jpeg)
 

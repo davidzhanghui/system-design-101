@@ -1,14 +1,16 @@
 ---
-title: "Top 10 Most Popular Open-Source Databases"
-description: "Explore the top 10 open-source databases and their impact."
-image: "https://assets.bytebytego.com/diagrams/0282-top-10-most-popular-open-source-databases.png"
-createdAt: "2024-02-26"
+title: Top 10 Most Popular Open-Source Databases
+description: Explore the top 10 open-source databases and their impact.
+image: >-
+  https://assets.bytebytego.com/diagrams/0282-top-10-most-popular-open-source-databases.png
+createdAt: '2024-02-26'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Databases"
-  - "Open Source"
+  - Databases
+  - Open Source
+titleZh: 全球最受欢迎的 10 款开源数据库盘点
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0282-top-10-most-popular-open-source-databases.png)

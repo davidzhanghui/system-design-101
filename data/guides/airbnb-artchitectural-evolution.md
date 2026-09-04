@@ -1,7 +1,8 @@
 ---
-title: "0 to 1.5 Billion Guests: Airbnb's Architectural Evolution"
-description: "Explore Airbnb's architectural evolution to support 1.5 billion guests."
-image: 'https://assets.bytebytego.com/diagrams/0427-zero-to-1-5-billion-guests-airbnb-s-architectural-evolution.png'
+title: '0 to 1.5 Billion Guests: Airbnb''s Architectural Evolution'
+description: Explore Airbnb's architectural evolution to support 1.5 billion guests.
+image: >-
+  https://assets.bytebytego.com/diagrams/0427-zero-to-1-5-billion-guests-airbnb-s-architectural-evolution.png
 createdAt: '2024-02-27'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - Architecture
   - Microservices
+titleZh: 从 0 到 15 亿房客：Airbnb 架构十年演进史
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0427-zero-to-1-5-billion-guests-airbnb-s-architectural-evolution.png)

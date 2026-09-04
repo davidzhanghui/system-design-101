@@ -1,6 +1,6 @@
 ---
 title: How does gRPC work?
-description: Learn how gRPC works, its data flow, and performance benefits.
+description: 'Learn how gRPC works, its data flow, and performance benefits.'
 image: 'https://assets.bytebytego.com/diagrams/0210-grpc.png'
 createdAt: '2024-01-28'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - gRPC
   - RPC
+titleZh: gRPC 底层是如何工作的？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0210-grpc.png)

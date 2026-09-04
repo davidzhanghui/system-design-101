@@ -1,14 +1,15 @@
 ---
-title: "What Happens When You Type a URL Into Your Browser?"
-description: "Explore the journey of a URL from browser input to webpage display."
-image: "https://assets.bytebytego.com/diagrams/0393-type-a-url-into-your-browser.png"
-createdAt: "2024-03-13"
+title: What Happens When You Type a URL Into Your Browser?
+description: Explore the journey of a URL from browser input to webpage display.
+image: 'https://assets.bytebytego.com/diagrams/0393-type-a-url-into-your-browser.png'
+createdAt: '2024-03-13'
 draft: false
 categories:
   - technical-interviews
 tags:
-  - "Networking"
-  - "Browsers"
+  - Networking
+  - Browsers
+titleZh: 在浏览器地址栏输入 URL 回车后，到底发生了什么？经典面试题全解
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0393-type-a-url-into-your-browser.png)
@@ -48,3 +49,17 @@ The diagram above illustrates the steps.
   ```
 
 - The browser renders the HTML content.
+
+---
+
+## 中文核心解析
+
+上图清晰拆解了从用户输入 URL 到最终屏幕渲染展示的端到端全流程：
+
+1. **URL 解析与协议规范**：浏览器解析协议（HTTP/HTTPS）、主机域名（Domain）、访问路径与资源定位。
+2. **DNS 多级缓存与递归查询**：依次检索浏览器缓存 -> 操作系统缓存/Hosts -> 路由器/局域网缓存 -> 运营商 Local DNS 递归查询，获取服务器真实公网 IP。
+3. **TCP 三次握手与 TLS 协商**：建立可靠传输层会话；若为 HTTPS 则完成数字证书校验与对称会话密钥协商。
+4. **发起 HTTP 请求**：构造 GET/POST 等标准报文（含请求行、头部 Headers、请求体 Body）并发送。
+5. **服务器处理与返回响应**：网关或后端服务完成路由与业务计算，返回 HTTP 状态码（如 200 OK）与响应数据（HTML/JSON）。
+6. **浏览器关键渲染路径（CRP）**：解析 DOM 树与 CSSOM 树 -> 构造渲染树（Render Tree） -> 布局（Layout/Reflow） -> 绘制（Paint）与图层合成（Composite）。
+

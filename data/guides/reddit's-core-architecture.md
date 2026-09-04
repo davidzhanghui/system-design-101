@@ -9,6 +9,7 @@ categories:
 tags:
   - Architecture
   - Social Media
+titleZh: Reddit 核心架构解析：支撑全球顶级社区的秘密
 ---
 ![](https://assets.bytebytego.com/diagrams/0356-the-core-reddit-architecture.png)
 

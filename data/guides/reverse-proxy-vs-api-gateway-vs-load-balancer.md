@@ -1,6 +1,8 @@
 ---
-title: 'Reverse Proxy vs. API Gateway vs. Load Balancer'
-description: 'Understand the differences between reverse proxy, API gateway, and load balancer.'
+title: Reverse Proxy vs. API Gateway vs. Load Balancer
+description: >-
+  Understand the differences between reverse proxy, API gateway, and load
+  balancer.
 image: 'https://assets.bytebytego.com/diagrams/0320-reverse-gateway-lb.png'
 createdAt: '2024-02-09'
 draft: false
@@ -9,6 +11,7 @@ categories:
 tags:
   - API Gateway
   - Load Balancing
+titleZh: 反向代理 vs API 网关 vs 负载均衡器深度对比
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0320-reverse-gateway-lb.png)

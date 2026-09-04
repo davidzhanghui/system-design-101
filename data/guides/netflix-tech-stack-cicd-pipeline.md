@@ -1,6 +1,6 @@
 ---
-title: 'Netflix Tech Stack - CI/CD Pipeline'
-description: "Netflix's CI/CD pipeline: from planning to incident reporting."
+title: Netflix Tech Stack - CI/CD Pipeline
+description: 'Netflix''s CI/CD pipeline: from planning to incident reporting.'
 image: 'https://assets.bytebytego.com/diagrams/0287-netflix-ci-cd.png'
 createdAt: '2024-03-02'
 draft: false
@@ -10,6 +10,7 @@ categories:
 tags:
   - CI/CD
   - Streaming
+titleZh: Netflix 持续交付平台 Spinnaker 与 CI/CD 体系
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0287-netflix-ci-cd.png)

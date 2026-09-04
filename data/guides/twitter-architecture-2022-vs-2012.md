@@ -1,7 +1,8 @@
 ---
-title: 'Twitter Architecture 2022 vs. 2012'
-description: "A look at how Twitter's architecture evolved over the past decade."
-image: 'https://assets.bytebytego.com/diagrams/0392-twitter-architecture-2022-vs-2012.jpeg'
+title: Twitter Architecture 2022 vs. 2012
+description: A look at how Twitter's architecture evolved over the past decade.
+image: >-
+  https://assets.bytebytego.com/diagrams/0392-twitter-architecture-2022-vs-2012.jpeg
 createdAt: '2024-03-13'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - System Design
   - Scalability
+titleZh: Twitter 架构十年变迁：2022 vs 2012 架构深度对比
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0392-twitter-architecture-2022-vs-2012.jpeg)

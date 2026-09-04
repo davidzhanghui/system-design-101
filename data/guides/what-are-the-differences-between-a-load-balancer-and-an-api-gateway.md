@@ -1,6 +1,6 @@
 ---
-title: 'Load Balancer vs. API Gateway'
-description: 'Explore the key differences between load balancers and API gateways.'
+title: Load Balancer vs. API Gateway
+description: Explore the key differences between load balancers and API gateways.
 image: 'https://assets.bytebytego.com/diagrams/0252-lb-api-gateway.png'
 createdAt: '2024-02-11'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - API Gateway
   - Load Balancer
+titleZh: 负载均衡器与 API 网关的核心区别
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0252-lb-api-gateway.png)

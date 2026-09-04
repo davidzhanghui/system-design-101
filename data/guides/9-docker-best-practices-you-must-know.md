@@ -1,14 +1,16 @@
 ---
-title: "9 Docker Best Practices You Must Know"
-description: "Learn 9 essential Docker best practices for efficient containerization."
-image: "https://assets.bytebytego.com/diagrams/0016-9-docker-best-practices-you-must-know.png"
-createdAt: "2024-03-02"
+title: 9 Docker Best Practices You Must Know
+description: Learn 9 essential Docker best practices for efficient containerization.
+image: >-
+  https://assets.bytebytego.com/diagrams/0016-9-docker-best-practices-you-must-know.png
+createdAt: '2024-03-02'
 draft: false
 categories:
   - devops-cicd
 tags:
   - Docker
   - Containerization
+titleZh: 容器化必备：9 个 Docker 生产最佳实践
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0016-9-docker-best-practices-you-must-know.png)

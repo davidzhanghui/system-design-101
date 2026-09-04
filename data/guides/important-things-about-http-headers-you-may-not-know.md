@@ -1,6 +1,6 @@
 ---
-title: 'Important Things About HTTP Headers'
-description: 'Learn about essential HTTP headers for client-server communication.'
+title: Important Things About HTTP Headers
+description: Learn about essential HTTP headers for client-server communication.
 image: 'https://assets.bytebytego.com/diagrams/0231-http-header.png'
 createdAt: '2024-01-30'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - HTTP
   - Headers
+titleZh: 关于 HTTP 请求头的关键核心知识
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0231-http-header.png)

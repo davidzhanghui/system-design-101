@@ -1,7 +1,8 @@
 ---
-title: 'McDonald’s Event-Driven Architecture'
-description: 'Explore McDonald’s event-driven architecture for scalability and efficiency.'
-image: 'https://assets.bytebytego.com/diagrams/0266-mcdonald-s-event-driven-architecture.png'
+title: McDonald’s Event-Driven Architecture
+description: Explore McDonald’s event-driven architecture for scalability and efficiency.
+image: >-
+  https://assets.bytebytego.com/diagrams/0266-mcdonald-s-event-driven-architecture.png
 createdAt: '2024-02-18'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - Event-Driven Architecture
   - Case Study
+titleZh: 麦当劳基于事件驱动架构（EDA）的全球系统设计
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0266-mcdonald-s-event-driven-architecture.png)

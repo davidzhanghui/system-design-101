@@ -1,14 +1,15 @@
 ---
-title: "What is SSO (Single Sign-On)?"
-description: "Learn about Single Sign-On (SSO) and how it simplifies user authentication."
-image: "https://assets.bytebytego.com/diagrams/0342-how-does-sso-work.jpeg"
-createdAt: "2024-03-12"
+title: What is SSO (Single Sign-On)?
+description: Learn about Single Sign-On (SSO) and how it simplifies user authentication.
+image: 'https://assets.bytebytego.com/diagrams/0342-how-does-sso-work.jpeg'
+createdAt: '2024-03-12'
 draft: false
 categories:
   - security
 tags:
-  - "authentication"
-  - "SSO"
+  - authentication
+  - SSO
+titleZh: 什么是单点登录（SSO）？实现原理与常见协议
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0342-how-does-sso-work.jpeg)

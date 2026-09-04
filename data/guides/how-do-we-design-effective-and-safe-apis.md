@@ -1,6 +1,6 @@
 ---
-title: 'How to Design Effective and Safe APIs'
-description: 'Learn how to design effective and safe APIs with best practices.'
+title: How to Design Effective and Safe APIs
+description: Learn how to design effective and safe APIs with best practices.
 image: 'https://assets.bytebytego.com/diagrams/0180-effective-apis.jpeg'
 createdAt: '2024-03-05'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - API Design
   - Software Engineering
+titleZh: 如何设计高效且安全的 API 接口
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0180-effective-apis.jpeg)

@@ -1,39 +1,41 @@
 ---
-title: "How to Avoid Crawling Duplicate URLs at Google Scale?"
-description: "Learn how to avoid crawling duplicate URLs at Google scale."
-image: "https://assets.bytebytego.com/diagrams/0089-bloomfilter.png"
-createdAt: "2024-02-27"
+title: How to Avoid Crawling Duplicate URLs at Google Scale?
+description: Learn how to avoid crawling duplicate URLs at Google scale.
+image: 'https://assets.bytebytego.com/diagrams/0089-bloomfilter.png'
+createdAt: '2024-02-27'
 draft: false
 categories:
   - software-development
 tags:
-  - "Bloom Filter"
-  - "Web Crawling"
+  - Bloom Filter
+  - Web Crawling
+titleZh: 如何在 Google 规模的海量网页爬取中避免重复 URL？布隆过滤器应用
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0089-bloomfilter.png)
 
-Option 1: Use a Set data structure to check if a URL already exists or not. Set is fast, but it is not space-efficient.
+在像 Google 这样拥有数十万亿级别网页的海量搜索引擎爬虫系统中，如何快速判断一个新发现的 URL 是否已经被抓取过，是系统设计的经典高并发高容量难题。
 
-Option 2: Store URLs in a database and check if a new URL is in the database. This can work but the load to the database will be very high.
+## 三种排重方案的权衡
 
-### Option 3: Bloom Filter
+* **方案 1：纯内存哈希集合（Hash Set）**
+  查询时间复杂度为 $O(1)$，极其高效，但由于每个 URL 字符串占用大量字节，面对千亿量级 URL，内存消耗将达到数 TB 到数十 TB，成本极其高昂且单机无法承受。
+* **方案 2：直接持久化落库检索（Database）**
+  将 URL 存入数据库或 NoSQL。每次抓取前先查询数据库，但百亿级爬取的高并发写与高频点查会使底层数据库不堪重负，带来严重的磁盘 I/O 瓶颈。
+* **方案 3：布隆过滤器（Bloom Filter —— 工业界最佳方案）**
+  布隆过滤器由 Burton Howard Bloom 于 1970 年提出，是一种以极小空间开销判定集合元素归属的**概率型数据结构（Probabilistic Data Structure）**。
 
-This option is preferred. Bloom filter was proposed by Burton Howard Bloom in 1970. It is a probabilistic data structure that is used to test whether an element is a member of a set.
+## 布隆过滤器的判定特征
 
-*   false: the element is definitely not in the set.
-*   true: the element is probably in the set.
+* **判定为“否”（False）：** 该元素**绝对不在**集合中（100% 准确，绝无假阴性 False Negative）。
+* **判定为“是”（True）：** 该元素**可能存在**于集合中（存在微小的假阳性 False Positive / 误报率）。
 
-False-positive matches are possible, but false negatives are not.
+## 算法运作机制
 
-The diagram below illustrates how the Bloom filter works. The basic data structure for the Bloom filter is Bit Vector. Each bit represents a hashed value.
+布隆过滤器的核心是一个很长的二进制位向量（Bit Array / Bit Vector）和一组独立的哈希函数（$H_1, H_2, \dots, H_k$）：
 
-### Step 1
+1. **添加元素：** 将待加入的 URL 依次输入 $k$ 个独立的哈希函数，计算出 $k$ 个数组下标，将位向量中对应位置的 Bit 均置为 `1`。
+2. **查询排重：** 当检索某个 URL 是否已存在时，使用同样的 $k$ 个哈希函数计算哈希位。**只要有任意一个 Bit 为 `0`，则该 URL 必定未被抓取过**；若所有对应的 Bit 全为 `1`，说明大概率已经抓取过，可以直接跳过或结合备用存储进一步精细校验。
 
-To add an element to the bloom filter, we feed it to 3 different hash functions (A, B, and C) and set the bits at the resulting positions. Note that both “[www.myweb1.com](http://www.myweb1.com/)” and “[www.myweb2.com](http://www.myweb2.com/)” mark the same bit with 1 at index 5. False positives are possible because a bit might be set by another element.
+哈希函数的选择极其关键，需要计算迅速且分布均匀（业界常用 MurmurHash、CityHash、xxHash 等）。RedisBloom、HBase、Apache Spark 和 InfluxDB 等底层系统均广泛使用布隆过滤器来规避无效磁盘 I/O。
 
-### Step 2
-
-When testing the existence of a URL string, the same hash functions A, B, and C are applied to the URL string. If all three bits are 1, then the URL may exist in the dataset; if any of the bits is 0, then the URL definitely does not exist in the dataset.
-
-Hash function choices are important. They must be uniformly distributed and fast. For example, RedisBloom and Apache Spark use murmur, and InfluxDB uses xxhash.

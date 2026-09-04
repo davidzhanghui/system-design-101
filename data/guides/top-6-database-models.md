@@ -1,14 +1,15 @@
 ---
-title: "Top 6 Database Models"
-description: "Explore the top 6 database models and their unique characteristics."
-image: "https://assets.bytebytego.com/diagrams/0369-top-6-database-models.png"
-createdAt: "2024-02-22"
+title: Top 6 Database Models
+description: Explore the top 6 database models and their unique characteristics.
+image: 'https://assets.bytebytego.com/diagrams/0369-top-6-database-models.png'
+createdAt: '2024-02-22'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Database Models"
-  - "Data Structures"
+  - Database Models
+  - Data Structures
+titleZh: 6 种主流数据库数据模型解析
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0369-top-6-database-models.png)

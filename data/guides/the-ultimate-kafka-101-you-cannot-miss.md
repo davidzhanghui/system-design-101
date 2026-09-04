@@ -1,14 +1,16 @@
 ---
-title: "The Ultimate Kafka 101 You Cannot Miss"
-description: "Learn the fundamentals of Kafka in 8 simple steps."
-image: "https://assets.bytebytego.com/diagrams/0246-kafka-101-8-steps-to-learn-the-fundamentals-of-kafka.png"
-createdAt: "2024-02-02"
+title: The Ultimate Kafka 101 You Cannot Miss
+description: Learn the fundamentals of Kafka in 8 simple steps.
+image: >-
+  https://assets.bytebytego.com/diagrams/0246-kafka-101-8-steps-to-learn-the-fundamentals-of-kafka.png
+createdAt: '2024-02-02'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Kafka"
-  - "Distributed Systems"
+  - Kafka
+  - Distributed Systems
+titleZh: Kafka 终极入门 101：架构、分区与消费组核心机制
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0246-kafka-101-8-steps-to-learn-the-fundamentals-of-kafka.png)

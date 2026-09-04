@@ -1,14 +1,16 @@
 ---
-title: "Cache Systems Every Developer Should Know"
-description: "Explore essential caching layers for developers to optimize performance."
-image: "https://assets.bytebytego.com/diagrams/0418-cache-systems-every-developer-should-know.jpeg"
-createdAt: "2024-02-20"
+title: Cache Systems Every Developer Should Know
+description: Explore essential caching layers for developers to optimize performance.
+image: >-
+  https://assets.bytebytego.com/diagrams/0418-cache-systems-every-developer-should-know.jpeg
+createdAt: '2024-02-20'
 draft: false
 categories:
   - caching-performance
 tags:
   - Caching
   - Performance
+titleZh: 每个工程师都应该了解的主流缓存系统
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0418-cache-systems-every-developer-should-know.jpeg)

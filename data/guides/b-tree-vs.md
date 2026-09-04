@@ -1,14 +1,15 @@
 ---
-title: "B-Tree vs. LSM-Tree"
-description: "Explore the differences between B-Tree and LSM-Tree data structures."
-image: "https://assets.bytebytego.com/diagrams/0091-btree-lsm.png"
-createdAt: "2024-02-16"
+title: B-Tree vs. LSM-Tree
+description: Explore the differences between B-Tree and LSM-Tree data structures.
+image: 'https://assets.bytebytego.com/diagrams/0091-btree-lsm.png'
+createdAt: '2024-02-16'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Data Structures"
-  - "Databases"
+  - Data Structures
+  - Databases
+titleZh: 存储引擎索引之争：B-Tree 与 LSM-Tree 深度对比
 ---
 
 ![a close up of a chart](https://assets.bytebytego.com/diagrams/0091-btree-lsm.png)

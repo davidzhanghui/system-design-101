@@ -1,5 +1,5 @@
 ---
-title: 'The Open Source AI Stack'
+title: The Open Source AI Stack
 description: 'Explore the open-source AI stack: tools and frameworks for AI development.'
 image: 'https://assets.bytebytego.com/diagrams/0359-the-open-source-ai-stack.png'
 createdAt: '2024-03-12'
@@ -9,6 +9,7 @@ categories:
 tags:
   - AI
   - Open Source
+titleZh: 开源 AI 基础技术栈全景图
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0359-the-open-source-ai-stack.png)

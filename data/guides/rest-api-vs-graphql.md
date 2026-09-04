@@ -1,6 +1,6 @@
 ---
-title: 'REST API vs. GraphQL'
-description: 'Explore the differences between REST API and GraphQL for API design.'
+title: REST API vs. GraphQL
+description: Explore the differences between REST API and GraphQL for API design.
 image: 'https://assets.bytebytego.com/diagrams/0036-rest-vs-graphql.png'
 createdAt: '2024-03-11'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - API
   - GraphQL
+titleZh: REST API 与 GraphQL 选型深度对比
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0036-rest-vs-graphql.png)

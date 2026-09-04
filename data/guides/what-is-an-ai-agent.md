@@ -1,5 +1,5 @@
 ---
-title: 'What is an AI Agent?'
+title: What is an AI Agent?
 description: 'Explore the concept of AI agents, their characteristics, and applications.'
 image: 'https://assets.bytebytego.com/diagrams/0412-what-is-an-ai-agent.png'
 createdAt: '2024-03-13'
@@ -9,6 +9,7 @@ categories:
 tags:
   - AI Agents
   - Machine Learning
+titleZh: 什么是 AI Agent（智能体）？核心架构与设计模式
 ---
 
 [![What is an AI Agent?](https://assets.bytebytego.com/diagrams/0412-what-is-an-ai-agent.png)]()

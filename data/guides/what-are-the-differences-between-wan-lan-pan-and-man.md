@@ -9,6 +9,7 @@ categories:
 tags:
   - network types
   - network architecture
+titleZh: 广域网（WAN）、局域网（LAN）、个域网（PAN）与城域网（MAN）的区别
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0405-wan-lan-pan-man-explained.png)

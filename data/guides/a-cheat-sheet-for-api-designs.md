@@ -1,6 +1,6 @@
 ---
-title: 'A cheat sheet for API designs'
-description: 'A handy cheat sheet for designing secure and efficient APIs.'
+title: A cheat sheet for API designs
+description: A handy cheat sheet for designing secure and efficient APIs.
 image: 'https://assets.bytebytego.com/diagrams/0137-cheat-sheet-for-api-design.png'
 createdAt: '2024-02-14'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - API Design
   - Security
+titleZh: API 设计速查表（Cheat Sheet）
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0137-cheat-sheet-for-api-design.png)

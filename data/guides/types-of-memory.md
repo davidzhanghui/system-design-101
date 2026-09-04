@@ -1,14 +1,15 @@
 ---
-title: "Types of Memory"
-description: "Explore the hierarchy of memory types, from registers to remote storage."
-image: "https://assets.bytebytego.com/diagrams/0045-memory-types.png"
-createdAt: "2024-02-19"
+title: Types of Memory
+description: 'Explore the hierarchy of memory types, from registers to remote storage.'
+image: 'https://assets.bytebytego.com/diagrams/0045-memory-types.png'
+createdAt: '2024-02-19'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Memory Management"
-  - "System Architecture"
+  - Memory Management
+  - System Architecture
+titleZh: 计算机体系结构中的内存与存储介质层次
 ---
 
 ![Types of Memory](https://assets.bytebytego.com/diagrams/0045-memory-types.png)

@@ -1,6 +1,6 @@
 ---
-title: 'How NAT Enabled the Internet'
-description: 'Explore how NAT facilitated the expansion of the internet.'
+title: How NAT Enabled the Internet
+description: Explore how NAT facilitated the expansion of the internet.
 image: 'https://assets.bytebytego.com/diagrams/0231-http-header.png'
 createdAt: '2024-01-29'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - NAT
   - Networking
+titleZh: NAT 技术如何支撑了现代互联网的飞速增长
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0231-http-header.png)

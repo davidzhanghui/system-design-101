@@ -1,6 +1,6 @@
 ---
-title: 'How to Design Stack Overflow'
-description: 'Explore the architecture of Stack Overflow and its design considerations.'
+title: How to Design Stack Overflow
+description: Explore the architecture of Stack Overflow and its design considerations.
 image: 'https://assets.bytebytego.com/diagrams/0343-stack-overflow-architecture.png'
 createdAt: '2024-02-20'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - System Design
   - Architecture
+titleZh: 系统设计：如何从零设计一个 Stack Overflow 网站？
 ---
 
 ![Image](https://assets.bytebytego.com/diagrams/0343-stack-overflow-architecture.png)

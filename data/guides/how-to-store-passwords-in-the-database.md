@@ -1,14 +1,15 @@
 ---
-title: "Storing Passwords Safely: A Comprehensive Guide"
-description: "Learn how to securely store and validate passwords in your database."
-image: "https://assets.bytebytego.com/diagrams/0321-salt.png"
-createdAt: "2024-02-12"
+title: 'Storing Passwords Safely: A Comprehensive Guide'
+description: Learn how to securely store and validate passwords in your database.
+image: 'https://assets.bytebytego.com/diagrams/0321-salt.png'
+createdAt: '2024-02-12'
 draft: false
 categories:
   - security
 tags:
-  - "password security"
-  - "data protection"
+  - password security
+  - data protection
+titleZh: 如何在数据库中安全地存储密码？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0321-salt.png)

@@ -1,6 +1,6 @@
 ---
 title: Uber Tech Stack - CI/CD
-description: "Uber's CI/CD tech stack: Tools and platforms for efficient delivery."
+description: 'Uber''s CI/CD tech stack: Tools and platforms for efficient delivery.'
 image: 'https://assets.bytebytego.com/diagrams/0398-uber-tech-stack-ci-cd.png'
 createdAt: '2024-02-19'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - CI/CD
   - Uber
+titleZh: Uber 技术栈剖析：CI/CD 自动化流水线
 ---
 
 Uber is one of the most innovative companies in the engineering field. Let’s take a look at their CI/CD tech stacks.

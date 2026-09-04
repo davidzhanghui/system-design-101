@@ -1,14 +1,15 @@
 ---
-title: "SQL Statement Execution in Database"
-description: "Explore the steps of SQL statement execution within a database system."
-image: "https://assets.bytebytego.com/diagrams/0340-sql-execution-order-in-db.jpeg"
-createdAt: "2024-02-23"
+title: SQL Statement Execution in Database
+description: Explore the steps of SQL statement execution within a database system.
+image: 'https://assets.bytebytego.com/diagrams/0340-sql-execution-order-in-db.jpeg'
+createdAt: '2024-02-23'
 draft: false
 categories:
   - database-and-storage
 tags:
   - SQL
   - Database Internals
+titleZh: 一条 SQL 语句在数据库内核中是如何被执行的？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0340-sql-execution-order-in-db.jpeg)

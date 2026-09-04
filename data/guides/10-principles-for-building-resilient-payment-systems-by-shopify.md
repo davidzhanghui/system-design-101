@@ -1,6 +1,6 @@
 ---
-title: '10 Principles for Building Resilient Payment Systems'
-description: '10 principles for building resilient payment systems based on Shopify.'
+title: 10 Principles for Building Resilient Payment Systems
+description: 10 principles for building resilient payment systems based on Shopify.
 image: 'https://assets.bytebytego.com/diagrams/0336-shopify.png'
 createdAt: '2024-03-07'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - payment systems
   - resilience
+titleZh: Shopify 总结：构建高韧性支付系统的 10 条黄金准则
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0336-shopify.png)

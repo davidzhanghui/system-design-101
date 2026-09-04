@@ -1,7 +1,8 @@
 ---
 title: Fixing Bugs Automatically at Meta Scale
 description: Meta's approach to automated bug fixing at scale using SapFix.
-image: 'https://assets.bytebytego.com/diagrams/0193-fixing-bugs-automatically-at-meta-scale.png'
+image: >-
+  https://assets.bytebytego.com/diagrams/0193-fixing-bugs-automatically-at-meta-scale.png
 createdAt: '2024-02-16'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - Automation
   - Debugging
+titleZh: Meta 如何在海量代码库中实现自动化 Bug 修复？
 ---
 ![](https://assets.bytebytego.com/diagrams/0193-fixing-bugs-automatically-at-meta-scale.png)
 

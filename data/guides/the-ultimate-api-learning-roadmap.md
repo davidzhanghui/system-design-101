@@ -1,7 +1,8 @@
 ---
 title: The Ultimate API Learning Roadmap
-description: "Your guide to mastering APIs: from basics to advanced techniques."
-image: 'https://assets.bytebytego.com/diagrams/0361-the-ultimate-api-learning-roadmap.png'
+description: 'Your guide to mastering APIs: from basics to advanced techniques.'
+image: >-
+  https://assets.bytebytego.com/diagrams/0361-the-ultimate-api-learning-roadmap.png
 createdAt: '2024-03-14'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - API
   - Roadmap
+titleZh: API 进阶终极学习路线图
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0361-the-ultimate-api-learning-roadmap.png)

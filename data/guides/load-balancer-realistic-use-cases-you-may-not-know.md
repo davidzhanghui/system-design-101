@@ -1,7 +1,8 @@
 ---
-title: 'Load Balancer Realistic Use Cases'
-description: 'Explore load balancer use cases for efficient network traffic management.'
-image: 'https://assets.bytebytego.com/diagrams/0232-http-status-code-shouldnt-exist.png'
+title: Load Balancer Realistic Use Cases
+description: Explore load balancer use cases for efficient network traffic management.
+image: >-
+  https://assets.bytebytego.com/diagrams/0232-http-status-code-shouldnt-exist.png
 createdAt: '2024-01-26'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - Load Balancing
   - Scalability
+titleZh: 负载均衡器（Load Balancer）的实用真实场景
 ---
 
 Load balancers are inherently dynamic and adaptable, designed to efficiently address multiple purposes and use cases in network traffic and server workload management.

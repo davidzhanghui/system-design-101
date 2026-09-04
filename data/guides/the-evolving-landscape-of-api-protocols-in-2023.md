@@ -1,6 +1,6 @@
 ---
-title: 'The Evolving Landscape of API Protocols in 2023'
-description: 'Explore the evolving landscape of API protocols in 2023.'
+title: The Evolving Landscape of API Protocols in 2023
+description: Explore the evolving landscape of API protocols in 2023.
 image: 'https://assets.bytebytego.com/diagrams/0077-api-protocols.png'
 createdAt: '2024-03-15'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - API
   - Protocols
+titleZh: 现代 API 协议全景演进格局
 ---
 
 This is a brief summary of the blog post I wrote for Postman.

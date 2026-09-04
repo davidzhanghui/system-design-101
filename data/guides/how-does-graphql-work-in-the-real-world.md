@@ -9,6 +9,7 @@ categories:
 tags:
   - GraphQL
   - LinkedIn
+titleZh: LinkedIn 的 GraphQL 生产实践与架构
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0209-graphql-linkedin.jpeg)

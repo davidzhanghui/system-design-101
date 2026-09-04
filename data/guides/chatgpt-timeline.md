@@ -9,6 +9,7 @@ categories:
 tags:
   - AI History
   - NLP
+titleZh: ChatGPT 与生成式 AI 发展关键时间线
 ---
 
 A picture is worth a thousand words. ChatGPT seems to come out of nowhere. Little did we know that it was built on top of decades of research.

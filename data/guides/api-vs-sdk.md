@@ -1,6 +1,6 @@
 ---
-title: 'API vs SDK'
-description: 'Understand the key differences between APIs and SDKs in software development.'
+title: API vs SDK
+description: Understand the key differences between APIs and SDKs in software development.
 image: 'https://assets.bytebytego.com/diagrams/0071-api-vs-sdk.png'
 createdAt: '2024-02-22'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - API
   - SDK
+titleZh: API 与 SDK 的区别与联系
 ---
 
 ![API vs SDK](https://assets.bytebytego.com/diagrams/0071-api-vs-sdk.png)

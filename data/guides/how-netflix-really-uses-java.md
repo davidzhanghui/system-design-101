@@ -9,6 +9,7 @@ categories:
 tags:
   - Java
   - Microservices
+titleZh: Netflix 在高并发场景下究竟是如何深度使用 Java 的？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0102-how-netflix-really-uses-java.png)

@@ -1,14 +1,15 @@
 ---
-title: "Cloud Load Balancer Cheat Sheet"
-description: "A concise guide to cloud load balancers and their optimal use cases."
-image: "https://assets.bytebytego.com/diagrams/0094-cloud-load-balancer-cheatsheet.gif"
-createdAt: "2024-03-05"
+title: Cloud Load Balancer Cheat Sheet
+description: A concise guide to cloud load balancers and their optimal use cases.
+image: 'https://assets.bytebytego.com/diagrams/0094-cloud-load-balancer-cheatsheet.gif'
+createdAt: '2024-03-05'
 draft: false
 categories:
   - cloud-distributed-systems
 tags:
-  - "Cloud Computing"
-  - "Load Balancing"
+  - Cloud Computing
+  - Load Balancing
+titleZh: 云厂商负载均衡器选型速查表
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0094-cloud-load-balancer-cheatsheet.gif)

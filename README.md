@@ -12,6 +12,10 @@
   </a> 】
 </p>
 
+<p align="center">
+  <strong>English</strong> | <a href="README_zh.md">简体中文</a>
+</p>
+
 <a href="https://trendshift.io/repositories/3709" target="_blank"><img src="https://trendshift.io/api/badge/repositories/3709" alt="ByteByteGoHq%2Fsystem-design-101 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 # System Design 101
