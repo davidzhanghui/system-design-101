@@ -1,6 +1,6 @@
 ---
-title: 'How Levelsfyi Scaled to Millions of Users with Google Sheets'
-description: 'Learn how Levelsfyi scaled to millions of users using Google Sheets.'
+title: How Levelsfyi Scaled to Millions of Users with Google Sheets
+description: Learn how Levelsfyi scaled to millions of users using Google Sheets.
 image: 'https://assets.bytebytego.com/diagrams/0255-levels-fyi.jpg'
 createdAt: '2024-02-17'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - Scalability
   - Google Sheets
+titleZh: Levels.fyi 如何靠 Google Sheets 支撑数百万级用户？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0255-levels-fyi.jpg)

@@ -1,14 +1,16 @@
 ---
-title: "Explain the Top 6 Use Cases of Object Stores"
-description: "Explore the top 6 use cases of object stores in modern data management."
-image: "https://assets.bytebytego.com/diagrams/0117-explain-the-top-6-use-cases-of-object-stores.png"
-createdAt: "2024-02-14"
+title: Explain the Top 6 Use Cases of Object Stores
+description: Explore the top 6 use cases of object stores in modern data management.
+image: >-
+  https://assets.bytebytego.com/diagrams/0117-explain-the-top-6-use-cases-of-object-stores.png
+createdAt: '2024-02-14'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Object Storage"
-  - "Data Management"
+  - Object Storage
+  - Data Management
+titleZh: 对象存储（Object Storage）的 6 大主流应用场景
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0117-explain-the-top-6-use-cases-of-object-stores.png)

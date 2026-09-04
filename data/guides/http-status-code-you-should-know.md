@@ -1,5 +1,5 @@
 ---
-title: 'HTTP Status Codes You Should Know'
+title: HTTP Status Codes You Should Know
 description: 'Understand HTTP status codes: categories and common examples.'
 image: 'https://assets.bytebytego.com/diagrams/0233-http-status-code.png'
 createdAt: '2024-02-24'
@@ -9,6 +9,7 @@ categories:
 tags:
   - HTTP
   - API
+titleZh: 后端开发必知必会的 HTTP 状态码
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0233-http-status-code.png)

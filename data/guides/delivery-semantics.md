@@ -1,14 +1,15 @@
 ---
-title: "Delivery Semantics"
-description: "Understand at-most once, at-least once, and exactly once delivery semantics."
-image: "https://assets.bytebytego.com/diagrams/0165-delivery-semantics.png"
-createdAt: "2024-02-10"
+title: Delivery Semantics
+description: 'Understand at-most once, at-least once, and exactly once delivery semantics.'
+image: 'https://assets.bytebytego.com/diagrams/0165-delivery-semantics.png'
+createdAt: '2024-02-10'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Message Queues"
-  - "Delivery Semantics"
+  - Message Queues
+  - Delivery Semantics
+titleZh: 消息投递语义：至多一次、至少一次与精确一次（Exactly-Once）
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0165-delivery-semantics.png)

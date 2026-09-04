@@ -1,14 +1,15 @@
 ---
-title: "Types of Message Queues"
-description: "Explore different types of message queues and their key features."
-image: "https://assets.bytebytego.com/diagrams/0272-message-queues.png"
-createdAt: "2024-01-31"
+title: Types of Message Queues
+description: Explore different types of message queues and their key features.
+image: 'https://assets.bytebytego.com/diagrams/0272-message-queues.png'
+createdAt: '2024-01-31'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Message Queue"
-  - "Messaging Systems"
+  - Message Queue
+  - Messaging Systems
+titleZh: 主流消息队列（MQ）分类与适用场景对比
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0272-message-queues.png)

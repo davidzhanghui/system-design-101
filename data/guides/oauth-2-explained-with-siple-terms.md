@@ -1,14 +1,15 @@
 ---
-title: "OAuth 2.0 Explained With Simple Terms"
-description: "Learn about OAuth 2.0, a secure framework for app interactions."
-image: "https://assets.bytebytego.com/diagrams/0111-what-is-oauth.png"
-createdAt: "2024-03-16"
+title: OAuth 2.0 Explained With Simple Terms
+description: 'Learn about OAuth 2.0, a secure framework for app interactions.'
+image: 'https://assets.bytebytego.com/diagrams/0111-what-is-oauth.png'
+createdAt: '2024-03-16'
 draft: false
 categories:
   - security
 tags:
-  - "OAuth 2.0"
-  - "Authentication"
+  - OAuth 2.0
+  - Authentication
+titleZh: 用通俗易懂的语言讲透 OAuth 2.0 授权机制
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0111-what-is-oauth.png)

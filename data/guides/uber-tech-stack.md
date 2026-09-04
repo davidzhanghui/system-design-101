@@ -9,6 +9,7 @@ categories:
 tags:
   - Architecture
   - Scalability
+titleZh: Uber 全球打车业务核心技术栈总览
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0124-uber-tech-stack-overall.png)

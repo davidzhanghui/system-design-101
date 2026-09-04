@@ -9,6 +9,7 @@ categories:
 tags:
   - API Security
   - Authentication
+titleZh: 如何为网站设计安全的 Web API 访问权限体系
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0325-secure-api.png)

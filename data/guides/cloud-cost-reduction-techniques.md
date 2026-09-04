@@ -1,14 +1,16 @@
 ---
-title: "Cloud Cost Reduction Techniques"
-description: "Learn effective strategies to minimize cloud spending and optimize resources."
-image: "https://assets.bytebytego.com/diagrams/0145-cloud-cost-reduction-techniques.png"
-createdAt: "2024-03-03"
+title: Cloud Cost Reduction Techniques
+description: Learn effective strategies to minimize cloud spending and optimize resources.
+image: >-
+  https://assets.bytebytego.com/diagrams/0145-cloud-cost-reduction-techniques.png
+createdAt: '2024-03-03'
 draft: false
 categories:
   - cloud-distributed-systems
 tags:
   - Cloud Cost Optimization
   - Resource Management
+titleZh: 云上成本优化与降本增效核心技术
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0145-cloud-cost-reduction-techniques.png)

@@ -9,6 +9,7 @@ categories:
 tags:
   - Networking
   - Ports
+titleZh: 每个工程师都应该掌握的 18 个常用网络端口
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0030-18-common-ports-you-must-know.png)

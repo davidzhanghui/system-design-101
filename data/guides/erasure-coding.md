@@ -1,14 +1,15 @@
 ---
-title: "Erasure Coding"
-description: "Explore erasure coding: enhancing data durability in object storage."
-image: "https://assets.bytebytego.com/diagrams/0187-erasure-coding.png"
-createdAt: "2024-02-09"
+title: Erasure Coding
+description: 'Explore erasure coding: enhancing data durability in object storage.'
+image: 'https://assets.bytebytego.com/diagrams/0187-erasure-coding.png'
+createdAt: '2024-02-09'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Data Storage"
-  - "Data Redundancy"
+  - Data Storage
+  - Data Redundancy
+titleZh: 纠删码（Erasure Coding）：现代分布式存储的容灾黑科技
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0187-erasure-coding.png)

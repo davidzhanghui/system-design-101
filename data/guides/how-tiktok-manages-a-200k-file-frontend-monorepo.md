@@ -1,7 +1,8 @@
 ---
 title: How TikTok Manages a 200K File Frontend MonoRepo
 description: TikTok's strategy for managing a large frontend MonoRepo with 200K files.
-image: 'https://assets.bytebytego.com/diagrams/0226-how-tiktok-manages-a-200k-file-frontend-monorepo.png'
+image: >-
+  https://assets.bytebytego.com/diagrams/0226-how-tiktok-manages-a-200k-file-frontend-monorepo.png
 createdAt: '2024-03-03'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - Monorepo
   - Performance
+titleZh: TikTok（抖音海外版）如何管理 20 万文件的超大前端 Monorepo？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0226-how-tiktok-manages-a-200k-file-frontend-monorepo.png)

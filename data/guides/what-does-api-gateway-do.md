@@ -1,6 +1,6 @@
 ---
-title: 'What Does an API Gateway Do?'
-description: 'Explore the functions and benefits of using an API gateway in microservices.'
+title: What Does an API Gateway Do?
+description: Explore the functions and benefits of using an API gateway in microservices.
 image: 'https://assets.bytebytego.com/diagrams/0072-what-does-api-gateway-do.png'
 createdAt: '2024-03-07'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - API Gateway
   - Microservices
+titleZh: API 网关到底承担了哪些职责？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0072-what-does-api-gateway-do.png)

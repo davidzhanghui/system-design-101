@@ -1,6 +1,6 @@
 ---
-title: 'Do you know all the components of a URL?'
-description: 'Learn about the different components that make up a URL.'
+title: Do you know all the components of a URL?
+description: Learn about the different components that make up a URL.
 image: 'https://assets.bytebytego.com/diagrams/0116-structure-of-url.png'
 createdAt: '2024-02-18'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - networking
   - web-development
+titleZh: 你真的了解 URL 的所有组成部分吗？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0116-structure-of-url.png)

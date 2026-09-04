@@ -1,14 +1,15 @@
 ---
-title: "How to Upload a Large File to S3"
-description: "Optimize performance when uploading large files to object storage like S3."
-image: "https://assets.bytebytego.com/diagrams/0284-multipart-upload.png"
-createdAt: "2024-01-30"
+title: How to Upload a Large File to S3
+description: Optimize performance when uploading large files to object storage like S3.
+image: 'https://assets.bytebytego.com/diagrams/0284-multipart-upload.png'
+createdAt: '2024-01-30'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "S3"
-  - "Object Storage"
+  - S3
+  - Object Storage
+titleZh: 如何在云存储（如 S3）中高效上传超大文件（分片上传）？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0284-multipart-upload.png)

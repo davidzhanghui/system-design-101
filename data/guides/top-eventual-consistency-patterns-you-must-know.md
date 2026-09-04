@@ -1,14 +1,16 @@
 ---
-title: "Top Eventual Consistency Patterns You Must Know"
-description: "Explore eventual consistency patterns for distributed database design."
-image: "https://assets.bytebytego.com/diagrams/0100-eventual-consistency-patterns-you-must-know.png"
-createdAt: "2024-02-15"
+title: Top Eventual Consistency Patterns You Must Know
+description: Explore eventual consistency patterns for distributed database design.
+image: >-
+  https://assets.bytebytego.com/diagrams/0100-eventual-consistency-patterns-you-must-know.png
+createdAt: '2024-02-15'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Consistency"
-  - "Databases"
+  - Consistency
+  - Databases
+titleZh: 必须掌握的主流最终一致性（Eventual Consistency）模式
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0100-eventual-consistency-patterns-you-must-know.png)

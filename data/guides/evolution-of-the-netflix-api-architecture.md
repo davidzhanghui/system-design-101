@@ -1,6 +1,6 @@
 ---
-title: 'Evolution of the Netflix API Architecture'
-description: 'Explore the evolution of Netflix API architecture through four stages.'
+title: Evolution of the Netflix API Architecture
+description: Explore the evolution of Netflix API architecture through four stages.
 image: 'https://assets.bytebytego.com/diagrams/0290-netflix-api.png'
 createdAt: '2024-03-11'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - API Architecture
   - Netflix
+titleZh: Netflix API 架构演进之路
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0290-netflix-api.png)

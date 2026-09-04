@@ -1,7 +1,8 @@
 ---
-title: 'Unicast vs Broadcast vs Multicast vs Anycast'
+title: Unicast vs Broadcast vs Multicast vs Anycast
 description: 'Understand the differences between unicast, broadcast, multicast, and anycast.'
-image: 'https://assets.bytebytego.com/diagrams/0125-unicast-vs-broadcast-vs-multicast-vs-anycast.png'
+image: >-
+  https://assets.bytebytego.com/diagrams/0125-unicast-vs-broadcast-vs-multicast-vs-anycast.png
 createdAt: '2024-02-19'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - Network Communication
   - Protocols
+titleZh: 单播、广播、组播与任播（Anycast）对比
 ---
 
 ![Unicast vs Broadcast vs Multicast vs Anycast](https://assets.bytebytego.com/diagrams/0125-unicast-vs-broadcast-vs-multicast-vs-anycast.png)

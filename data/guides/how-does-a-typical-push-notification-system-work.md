@@ -1,7 +1,8 @@
 ---
 title: How Does a Typical Push Notification System Work?
 description: Explore the architecture of a typical push notification system.
-image: 'https://assets.bytebytego.com/diagrams/0042-design-a-notification-push-system.png'
+image: >-
+  https://assets.bytebytego.com/diagrams/0042-design-a-notification-push-system.png
 createdAt: '2024-02-24'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - System Design
   - Notifications
+titleZh: 一套经典的消息推送系统（Push Notification）是如何运作的？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0042-design-a-notification-push-system.png)

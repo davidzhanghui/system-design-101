@@ -1,6 +1,6 @@
 ---
-title: '100X Postgres Scaling at Figma'
-description: 'Learn how Figma scaled its Postgres database by 100x.'
+title: 100X Postgres Scaling at Figma
+description: Learn how Figma scaled its Postgres database by 100x.
 image: 'https://assets.bytebytego.com/diagrams/0048-100x-postgres-scaling-at-figma.png'
 createdAt: '2024-02-12'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - Postgres
   - Scaling
+titleZh: Figma 如何将 PostgreSQL 数据库扩展 100 倍？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0048-100x-postgres-scaling-at-figma.png)

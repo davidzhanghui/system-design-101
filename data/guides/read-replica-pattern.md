@@ -1,14 +1,15 @@
 ---
-title: "Read Replica Pattern"
-description: "Explore the read replica pattern for database design and optimization."
-image: "https://assets.bytebytego.com/diagrams/0312-read-replica-pattern.png"
-createdAt: "2024-01-28"
+title: Read Replica Pattern
+description: Explore the read replica pattern for database design and optimization.
+image: 'https://assets.bytebytego.com/diagrams/0312-read-replica-pattern.png'
+createdAt: '2024-01-28'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Database Replication"
-  - "Read Scalability"
+  - Database Replication
+  - Read Scalability
+titleZh: 主从读写分离模式（Read Replica Pattern）设计
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0312-read-replica-pattern.png)

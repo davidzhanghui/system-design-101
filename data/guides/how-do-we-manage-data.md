@@ -1,14 +1,15 @@
 ---
-title: "Top 6 Data Management Patterns"
-description: "Explore 6 key data management patterns for efficient data handling."
-image: "https://assets.bytebytego.com/diagrams/0379-top-6-data-management-patterns.png"
-createdAt: "2024-02-04"
+title: Top 6 Data Management Patterns
+description: Explore 6 key data management patterns for efficient data handling.
+image: 'https://assets.bytebytego.com/diagrams/0379-top-6-data-management-patterns.png'
+createdAt: '2024-02-04'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "data management"
-  - "data patterns"
+  - data management
+  - data patterns
+titleZh: 系统设计中最常用的 6 种数据管理设计模式
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0379-top-6-data-management-patterns.png)

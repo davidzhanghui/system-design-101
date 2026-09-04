@@ -9,6 +9,7 @@ categories:
 tags:
   - Security
   - Encryption
+titleZh: Telegram 真的足够安全吗？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0354-is-telegram-secure.jpg)

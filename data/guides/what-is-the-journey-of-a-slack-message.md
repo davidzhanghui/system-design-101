@@ -1,6 +1,6 @@
 ---
-title: 'What is the Journey of a Slack Message?'
-description: 'Explore the journey of a Slack message from sender to receiver.'
+title: What is the Journey of a Slack Message?
+description: Explore the journey of a Slack message from sender to receiver.
 image: 'https://assets.bytebytego.com/diagrams/0338-slack-message-journey.jpg'
 createdAt: '2024-03-08'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - System Design
   - Messaging
+titleZh: 一条 Slack 消息的完整流转之旅
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0338-slack-message-journey.jpg)

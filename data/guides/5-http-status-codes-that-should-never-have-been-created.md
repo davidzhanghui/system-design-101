@@ -1,7 +1,8 @@
 ---
-title: '5 HTTP Status Codes That Should Never Have Been Created'
+title: 5 HTTP Status Codes That Should Never Have Been Created
 description: 'Explore 5 HTTP status codes that are quirky, humorous, or problematic.'
-image: 'https://assets.bytebytego.com/diagrams/0232-http-status-code-shouldnt-exist.png'
+image: >-
+  https://assets.bytebytego.com/diagrams/0232-http-status-code-shouldnt-exist.png
 createdAt: '2024-01-27'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - HTTP Status Codes
   - Web Development
+titleZh: 5个本不该被创造的 HTTP 状态码
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0232-http-status-code-shouldnt-exist.png)

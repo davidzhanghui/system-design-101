@@ -1,5 +1,5 @@
 ---
-title: 'HTTP/1 -> HTTP/2 -> HTTP/3'
+title: HTTP/1 -> HTTP/2 -> HTTP/3
 description: 'Explore the evolution of HTTP: from HTTP/1 to the latest HTTP/3.'
 image: 'https://assets.bytebytego.com/diagrams/0101-http-1-http-2-http-3.png'
 createdAt: '2024-03-02'
@@ -9,6 +9,7 @@ categories:
 tags:
   - HTTP
   - Protocols
+titleZh: HTTP 协议演进史：从 HTTP/1 到 HTTP/2 再到 HTTP/3
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0101-http-1-http-2-http-3.png)

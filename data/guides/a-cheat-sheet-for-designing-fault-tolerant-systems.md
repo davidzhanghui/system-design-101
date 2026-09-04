@@ -1,14 +1,16 @@
 ---
-title: "A Cheat Sheet for Designing Fault-Tolerant Systems"
-description: "Top principles for designing robust, fault-tolerant systems."
-image: "https://assets.bytebytego.com/diagrams/0139-cheat-sheet-for-fault-tolerant-systems.png"
-createdAt: "2024-02-14"
+title: A Cheat Sheet for Designing Fault-Tolerant Systems
+description: 'Top principles for designing robust, fault-tolerant systems.'
+image: >-
+  https://assets.bytebytego.com/diagrams/0139-cheat-sheet-for-fault-tolerant-systems.png
+createdAt: '2024-02-14'
 draft: false
 categories:
   - cloud-distributed-systems
 tags:
-  - "Fault Tolerance"
-  - "System Design"
+  - Fault Tolerance
+  - System Design
+titleZh: 设计高可用容错系统的实战速查表
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0139-cheat-sheet-for-fault-tolerant-systems.png)

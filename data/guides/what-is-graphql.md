@@ -1,6 +1,6 @@
 ---
 title: What is GraphQL?
-description: "GraphQL explained: a query language for APIs."
+description: 'GraphQL explained: a query language for APIs.'
 image: 'https://assets.bytebytego.com/diagrams/0055-what-is-graphql.png'
 createdAt: '2024-03-12'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - GraphQL
   - API
+titleZh: 什么是 GraphQL？现代化查询语言入门
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0055-what-is-graphql.png)

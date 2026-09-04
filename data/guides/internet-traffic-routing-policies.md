@@ -1,7 +1,8 @@
 ---
-title: 'Internet Traffic Routing Policies'
-description: 'Explore internet traffic routing policies for efficient network management.'
-image: 'https://assets.bytebytego.com/diagrams/0106-internet-traffic-routing-policies.png'
+title: Internet Traffic Routing Policies
+description: Explore internet traffic routing policies for efficient network management.
+image: >-
+  https://assets.bytebytego.com/diagrams/0106-internet-traffic-routing-policies.png
 createdAt: '2024-01-31'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - Networking
   - Routing
+titleZh: 互联网流量路由策略详解
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0106-internet-traffic-routing-policies.png)

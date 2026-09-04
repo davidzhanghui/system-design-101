@@ -1,6 +1,6 @@
 ---
-title: '5 Functions to Merge Data with Pandas'
-description: 'Explore 5 Pandas functions for efficient data merging and analysis.'
+title: 5 Functions to Merge Data with Pandas
+description: Explore 5 Pandas functions for efficient data merging and analysis.
 image: 'https://assets.bytebytego.com/diagrams/0192-five-pandas.jpg'
 createdAt: '2024-03-08'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - Pandas
   - Data Manipulation
+titleZh: Pandas 数据合并的 5 大常用核心函数
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0192-five-pandas.jpg)

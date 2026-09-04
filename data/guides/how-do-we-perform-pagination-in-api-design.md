@@ -9,6 +9,7 @@ categories:
 tags:
   - API Design
   - Pagination
+titleZh: API 接口设计中如何优雅地实现分页？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0076-api-pagination-101.png)

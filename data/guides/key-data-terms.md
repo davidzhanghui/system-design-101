@@ -1,6 +1,6 @@
 ---
-title: 'Key Data Terms'
-description: 'Understand essential data terminology for effective data management.'
+title: Key Data Terms
+description: Understand essential data terminology for effective data management.
 image: 'https://assets.bytebytego.com/diagrams/0158-data-terms.png'
 createdAt: '2024-03-09'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - Data Warehousing
   - Data Lakes
+titleZh: 大数据与数据工程必知核心术语
 ---
 
 Data is used everywhere, but do you know all the commonly used data terms?

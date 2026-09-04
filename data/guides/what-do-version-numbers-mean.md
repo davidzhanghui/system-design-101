@@ -1,6 +1,6 @@
 ---
 title: What do version numbers mean?
-description: "Understand version numbers: MAJOR, MINOR, PATCH and Semantic Versioning."
+description: 'Understand version numbers: MAJOR, MINOR, PATCH and Semantic Versioning.'
 image: 'https://assets.bytebytego.com/diagrams/0415-what-do-version-numbers-mean.png'
 createdAt: '2024-02-17'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - Versioning
   - SemVer
+titleZh: 软件语义化版本号（SemVer）到底意味着什么？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0415-what-do-version-numbers-mean.png)

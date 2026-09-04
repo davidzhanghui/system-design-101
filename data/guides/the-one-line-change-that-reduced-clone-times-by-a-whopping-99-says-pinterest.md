@@ -1,6 +1,6 @@
 ---
-title: 'The one-line change that reduced clone times by 99% at Pinterest'
-description: 'A one-line change reduced clone times by 99% at Pinterest.'
+title: The one-line change that reduced clone times by 99% at Pinterest
+description: A one-line change reduced clone times by 99% at Pinterest.
 image: 'https://assets.bytebytego.com/diagrams/0302-pinterest-one-line-change.png'
 createdAt: '2024-02-14'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - DevOps
   - Git
+titleZh: Pinterest 仅改动一行代码，将 Git Clone 时间缩短 99%
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0302-pinterest-one-line-change.png)

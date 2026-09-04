@@ -1,14 +1,15 @@
 ---
-title: "Can Kafka Lose Messages?"
-description: "Explore Kafka's message loss scenarios and prevention strategies."
-image: "https://assets.bytebytego.com/diagrams/0130-can-kafka-lose-messages.png"
-createdAt: "2024-02-12"
+title: Can Kafka Lose Messages?
+description: Explore Kafka's message loss scenarios and prevention strategies.
+image: 'https://assets.bytebytego.com/diagrams/0130-can-kafka-lose-messages.png'
+createdAt: '2024-02-12'
 draft: false
 categories:
-  - "database-and-storage"
+  - database-and-storage
 tags:
-  - "Kafka"
-  - "Message Loss"
+  - Kafka
+  - Message Loss
+titleZh: Kafka 在什么情况下会丢失消息？如何做到零丢消息？
 ---
 
 Error handling is one of the most important aspects of building reliable systems.

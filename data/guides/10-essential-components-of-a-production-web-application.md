@@ -1,7 +1,8 @@
 ---
-title: '10 Essential Components of a Production Web Application'
-description: 'Explore 10 key components for building robust web applications.'
-image: 'https://assets.bytebytego.com/diagrams/0395-typical-architecture-of-a-web-application.png'
+title: 10 Essential Components of a Production Web Application
+description: Explore 10 key components for building robust web applications.
+image: >-
+  https://assets.bytebytego.com/diagrams/0395-typical-architecture-of-a-web-application.png
 createdAt: '2024-02-20'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - Web Architecture
   - System Design
+titleZh: 生产级 Web 应用的 10 大核心组件
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0395-typical-architecture-of-a-web-application.png)

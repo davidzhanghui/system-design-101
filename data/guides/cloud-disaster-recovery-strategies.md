@@ -1,14 +1,16 @@
 ---
-title: "Cloud Disaster Recovery Strategies"
-description: "Explore cloud disaster recovery strategies: RTO, RPO, and key approaches."
-image: "https://assets.bytebytego.com/diagrams/0050-cloud-disaster-recovery-strategies.png"
-createdAt: "2024-01-29"
+title: Cloud Disaster Recovery Strategies
+description: 'Explore cloud disaster recovery strategies: RTO, RPO, and key approaches.'
+image: >-
+  https://assets.bytebytego.com/diagrams/0050-cloud-disaster-recovery-strategies.png
+createdAt: '2024-01-29'
 draft: false
 categories:
   - cloud-distributed-systems
 tags:
-  - "Cloud Computing"
-  - "Disaster Recovery"
+  - Cloud Computing
+  - Disaster Recovery
+titleZh: 云端灾难恢复（DR）战略与容灾级别
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0050-cloud-disaster-recovery-strategies.png)

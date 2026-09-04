@@ -1,6 +1,6 @@
 ---
-title: '4 Ways Netflix Uses Caching'
-description: 'Explore how Netflix uses caching to maintain user engagement.'
+title: 4 Ways Netflix Uses Caching
+description: Explore how Netflix uses caching to maintain user engagement.
 image: 'https://assets.bytebytego.com/diagrams/0007-4-ways-netflix-uses-caching.png'
 createdAt: '2024-02-25'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - Caching
   - Netflix
+titleZh: Netflix 留住用户的 4 种极致缓存架构策略
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0007-4-ways-netflix-uses-caching.png)

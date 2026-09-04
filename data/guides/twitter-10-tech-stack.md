@@ -1,5 +1,5 @@
 ---
-title: 'Twitter 1.0 Tech Stack'
+title: Twitter 1.0 Tech Stack
 description: 'Explore the tech stack behind Twitter 1.0: a deep dive into its architecture.'
 image: 'https://assets.bytebytego.com/diagrams/0122-twitter1-0-tech-stack.jpg'
 createdAt: '2024-02-21'
@@ -9,6 +9,7 @@ categories:
 tags:
   - Architecture
   - Social Media
+titleZh: Twitter 1.0 经典技术栈全景回顾
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0122-twitter1-0-tech-stack.jpg)

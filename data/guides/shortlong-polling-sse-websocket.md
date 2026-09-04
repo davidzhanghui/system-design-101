@@ -1,7 +1,8 @@
 ---
 title: 'Short/long polling, SSE, WebSocket'
 description: 'Explore real-time web updates: polling, SSE, and WebSockets.'
-image: 'https://assets.bytebytego.com/diagrams/0337-short-long-polling-sse-websocket.jpeg'
+image: >-
+  https://assets.bytebytego.com/diagrams/0337-short-long-polling-sse-websocket.jpeg
 createdAt: '2024-01-25'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - WebSockets
   - SSE
+titleZh: 短轮询、长轮询、SSE 与 WebSocket 对比解析
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0337-short-long-polling-sse-websocket.jpeg)

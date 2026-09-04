@@ -1,14 +1,15 @@
 ---
-title: "Cloud Database Cheat Sheet"
-description: "A handy guide to cloud databases and their open-source alternatives."
-image: "https://assets.bytebytego.com/diagrams/0146-cloud-dbs2.png"
-createdAt: "2024-02-18"
+title: Cloud Database Cheat Sheet
+description: A handy guide to cloud databases and their open-source alternatives.
+image: 'https://assets.bytebytego.com/diagrams/0146-cloud-dbs2.png'
+createdAt: '2024-02-18'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Cloud Computing"
-  - "Databases"
+  - Cloud Computing
+  - Databases
+titleZh: 主流云数据库选型对比速查表
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0146-cloud-dbs2.png)

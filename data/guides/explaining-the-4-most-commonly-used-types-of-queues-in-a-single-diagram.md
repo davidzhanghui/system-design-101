@@ -1,14 +1,15 @@
 ---
-title: "Explaining the 4 Most Commonly Used Types of Queues"
-description: "Learn about the 4 most commonly used types of queues in a single diagram"
-image: "https://assets.bytebytego.com/diagrams/0366-types-of-queues.png"
-createdAt: "2024-02-06"
+title: Explaining the 4 Most Commonly Used Types of Queues
+description: Learn about the 4 most commonly used types of queues in a single diagram
+image: 'https://assets.bytebytego.com/diagrams/0366-types-of-queues.png'
+createdAt: '2024-02-06'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Data Structures"
-  - "Queues"
+  - Data Structures
+  - Queues
+titleZh: 一张图讲透 4 种最常用的队列类型
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0366-types-of-queues.png)

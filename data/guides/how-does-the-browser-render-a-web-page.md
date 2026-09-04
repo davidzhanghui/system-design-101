@@ -1,5 +1,5 @@
 ---
-title: 'How Browsers Render Web Pages'
+title: How Browsers Render Web Pages
 description: 'Explore how browsers render web pages: from HTML parsing to display.'
 image: 'https://assets.bytebytego.com/diagrams/0090-browser-render-page.jpg'
 createdAt: '2024-02-01'
@@ -9,6 +9,7 @@ categories:
 tags:
   - browsers
   - rendering
+titleZh: 浏览器是如何渲染网页的？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0090-browser-render-page.jpg)

@@ -1,48 +1,39 @@
 ---
-title: "How Redis Architecture Evolved"
-description: "Explore the evolution of Redis architecture, from standalone to cluster."
-image: "https://assets.bytebytego.com/diagrams/0223-how-redis-architecture-evolve.png"
-createdAt: "2024-03-04"
+title: How Redis Architecture Evolved
+description: 'Explore the evolution of Redis architecture, from standalone to cluster.'
+image: 'https://assets.bytebytego.com/diagrams/0223-how-redis-architecture-evolve.png'
+createdAt: '2024-03-04'
 draft: false
 categories:
   - caching-performance
 tags:
   - Redis
   - Architecture
+titleZh: Redis 架构演化史：从单机到主从、哨兵再到分布式集群
 ---
 
-![Redis Architecture Evolution](https://assets.bytebytego.com/diagrams/0223-how-redis-architecture-evolve.png)
+![Redis 架构演进图谱](https://assets.bytebytego.com/diagrams/0223-how-redis-architecture-evolve.png)
 
-Redis is a popular in-memory cache. How did it evolve to the architecture it is today?
+Redis 是一款广泛应用于高性能缓存与内存数据库的工业级组件。它从最初单机版演进至现代超大规模高可用分布式集群，经历了多个标志性的里程碑阶段：
 
-## 2010 - Standalone Redis
+## 1. 2010年 —— 单机版 Redis (Standalone)
+Redis 1.0 发布时架构非常纯粹，通常作为业务应用层与后端关系型数据库之间的前置只读/写入缓存。但纯内存存储存在严重缺陷：一旦节点异常崩溃或重启，内存数据全部丢失，海量高并发流量将瞬间直接穿透击垮底层数据库。
 
-When Redis 1.0 was released in 2010, the architecture was quite simple. It is usually used as a cache to the business application.
+## 2. 2013年 —— 持久化机制 (Persistence)
+为解决内存易失性问题，Redis 引入了两种核心持久化机制：
+- **RDB（内存快照）：** 周期性 fork 子进程，将当前全量内存数据生成二进制快照文件；
+- **AOF（追加日志）：** 将收到的每一条写命令追加写入 AOF 文件中，重启时通过回放命令恢复数据。
 
-However, Redis stores data in memory. When we restart Redis, we will lose all the data and the traffic directly hits the database.
+## 3. 2013年 —— 主从复制 (Replication)
+Redis 引入了主从复制架构（Master-Replica）以提升读取性能和数据冗余备份。主节点负责处理实时的读写请求，从节点异步复制主节点的数据流并分担大量只读流量。
 
-## 2013 - Persistence
+## 4. 2013年 —— 哨兵集群机制 (Sentinel)
+为解决主节点单点宕机时需要人工手动切换的痛点，Redis 推出了 Sentinel 哨兵系统。哨兵集群负责执行四大核心任务：**持续监控（Monitoring）、告警通知（Notification）、自动故障转移（Automatic Failover）与配置中心（Configuration Provider）**，实现了主从高可用的无人值守自动运维。
 
-When Redis 2.8 was released in 2013, it addressed the previous restrictions. Redis introduced RDB in-memory snapshots to persist data. It also supports AOF (Append-Only-File), where each write command is written to an AOF file.
+## 5. 2015年 —— 分布式分片集群 (Redis Cluster)
+Redis 3.0 正式发布了官方分布式集群方案。采用去中心化哈希槽（Hash Slot）机制，将整个键空间逻辑切分为 16,384 个槽位，分布在集群中不同的主节点上，支持海量数据的水平横向扩容（Sharding）与自动故障转移。
 
-## 2013 - Replication
+## 6. 后续演进与现代化突破
+- **Redis 5.0 (2017)：** 引入全新的 Stream 数据类型，提供了持久化消息队列与消费组能力；
+- **Redis 6.0 (2020)：** 引入网络 I/O 多线程模型，将网络数据读写协议解析交由多线程处理，而核心命令执行依然保持严谨的单线程循环，进一步突破单机网络带宽瓶颈。
 
-Redis 2.8 also added replication to increase availability. The primary instance handles real-time read and write requests, while replica synchronizes the primary's data.
-
-## 2013 - Sentinel
-
-Redis 2.8 introduced Sentinel to monitor the Redis instances in real time. is a system designed to help managing Redis instances. It performs the following four tasks: monitoring, notification, automatic failover and configuration provider.
-
-## 2015 - Cluster
-
-In 2015, Redis 3.0 was released. It added Redis clusters.
-
-A Redis cluster is a distributed database solution that manages data through sharding. The data is divided into 16384 slots, and each node is responsible for a portion of the slot.
-
-## Looking Ahead
-
-Redis is popular because of its high performance and rich data structures that dramatically reduce the complexity of developing a business application.
-
-In 2017, Redis 5.0 was released, adding the stream data type.
-
-In 2020, Redis 6.0 was released, introducing the multi-threaded I/O in the network module. Redis model is divided into the network module and the main processing module. The Redis developers the network module tends to become a bottleneck in the system.

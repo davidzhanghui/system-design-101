@@ -1,14 +1,16 @@
 ---
-title: "Top 4 Data Sharding Algorithms Explained"
-description: "Explore the top data sharding algorithms for efficient data management."
-image: "https://assets.bytebytego.com/diagrams/0373-top-4-data-sharding-algorithms-explained.png"
-createdAt: "2024-02-21"
+title: Top 4 Data Sharding Algorithms Explained
+description: Explore the top data sharding algorithms for efficient data management.
+image: >-
+  https://assets.bytebytego.com/diagrams/0373-top-4-data-sharding-algorithms-explained.png
+createdAt: '2024-02-21'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Data Sharding"
-  - "Algorithms"
+  - Data Sharding
+  - Algorithms
+titleZh: 数据库分库分表（Sharding）的 4 大核心分片算法
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0373-top-4-data-sharding-algorithms-explained.png)

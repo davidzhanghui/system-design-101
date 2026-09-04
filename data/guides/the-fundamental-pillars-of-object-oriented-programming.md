@@ -1,14 +1,16 @@
 ---
-title: "The Fundamental Pillars of Object-Oriented Programming"
-description: "Explore the core principles of object-oriented programming (OOP)."
-image: "https://assets.bytebytego.com/diagrams/0197-4-fundamental-pillars-of-object-oriented-programming.png"
-createdAt: "2024-03-06"
+title: The Fundamental Pillars of Object-Oriented Programming
+description: Explore the core principles of object-oriented programming (OOP).
+image: >-
+  https://assets.bytebytego.com/diagrams/0197-4-fundamental-pillars-of-object-oriented-programming.png
+createdAt: '2024-03-06'
 draft: false
 categories:
   - software-development
 tags:
   - OOP
   - Principles
+titleZh: 面向对象编程（OOP）的四大基本支柱
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0197-4-fundamental-pillars-of-object-oriented-programming.png)

@@ -1,14 +1,15 @@
 ---
-title: "How to Decide Which Type of Database to Use"
-description: "A guide to choosing the right database for your specific needs."
-image: "https://assets.bytebytego.com/diagrams/0160-database-types.jpg"
-createdAt: "2024-02-17"
+title: How to Decide Which Type of Database to Use
+description: A guide to choosing the right database for your specific needs.
+image: 'https://assets.bytebytego.com/diagrams/0160-database-types.jpg'
+createdAt: '2024-02-17'
 draft: false
 categories:
   - database-and-storage
 tags:
   - database selection
   - database types
+titleZh: 如何科学地为应用选择最合适的数据库类型？
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0160-database-types.jpg)

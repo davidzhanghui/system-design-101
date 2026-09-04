@@ -1,7 +1,8 @@
 ---
-title: 'How does REST API work?'
+title: How does REST API work?
 description: 'Explore REST API principles, methods, constraints, and best practices.'
-image: 'https://assets.bytebytego.com/diagrams/0317-rest-api-authentication-methods.png'
+image: >-
+  https://assets.bytebytego.com/diagrams/0317-rest-api-authentication-methods.png
 createdAt: '2024-02-10'
 draft: false
 categories:
@@ -9,6 +10,7 @@ categories:
 tags:
   - rest-api
   - web-development
+titleZh: RESTful API 的工作原理与约束
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0317-rest-api-authentication-methods.png)

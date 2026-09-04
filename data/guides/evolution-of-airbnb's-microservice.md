@@ -1,6 +1,6 @@
 ---
-title: 'Evolution of Airbnb’s Microservice Architecture'
-description: 'Explore the evolution of Airbnb’s microservice architecture in detail.'
+title: Evolution of Airbnb’s Microservice Architecture
+description: Explore the evolution of Airbnb’s microservice architecture in detail.
 image: 'https://assets.bytebytego.com/diagrams/0014-airbnb-arch.jpg'
 createdAt: '2024-03-05'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - Microservices
   - Architecture
+titleZh: Airbnb 微服务架构的演变历程
 ---
 
 [![](https://assets.bytebytego.com/diagrams/0014-airbnb-arch.jpg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c90c105-a6bf-46f4-b896-73390fcfe60b_3396x1839.jpeg)

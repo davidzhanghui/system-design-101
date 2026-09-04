@@ -1,14 +1,16 @@
 ---
-title: "Pessimistic vs Optimistic Locking"
-description: "Explore pessimistic and optimistic locking strategies for data consistency."
-image: "https://assets.bytebytego.com/diagrams/0301-pessimistic-vs-optimistic-locking.png"
-createdAt: "2024-01-29"
+title: Pessimistic vs Optimistic Locking
+description: Explore pessimistic and optimistic locking strategies for data consistency.
+image: >-
+  https://assets.bytebytego.com/diagrams/0301-pessimistic-vs-optimistic-locking.png
+createdAt: '2024-01-29'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Concurrency Control"
-  - "Database Transactions"
+  - Concurrency Control
+  - Database Transactions
+titleZh: 悲观锁 vs 乐观锁：并发控制策略对比
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0301-pessimistic-vs-optimistic-locking.png)

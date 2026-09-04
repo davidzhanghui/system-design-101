@@ -1,14 +1,16 @@
 ---
-title: "Time Series DB (TSDB) in 20 Lines"
-description: "Learn about Time Series Databases (TSDB) and their applications."
-image: "https://assets.bytebytego.com/diagrams/0364-time-series-db-tsdb-in-20-lines.jpeg"
-createdAt: "2024-02-07"
+title: Time Series DB (TSDB) in 20 Lines
+description: Learn about Time Series Databases (TSDB) and their applications.
+image: >-
+  https://assets.bytebytego.com/diagrams/0364-time-series-db-tsdb-in-20-lines.jpeg
+createdAt: '2024-02-07'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Database"
-  - "TimeSeries"
+  - Database
+  - TimeSeries
+titleZh: 20 行代码讲清时序数据库（TSDB）的核心逻辑
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0364-time-series-db-tsdb-in-20-lines.jpeg)

@@ -1,14 +1,16 @@
 ---
-title: "Change Data Capture: Key to Leverage Real-time Data"
-description: "Learn how Change Data Capture (CDC) helps leverage real-time data."
-image: "https://assets.bytebytego.com/diagrams/0133-change-data-capture-key-to-leverage-real-time-data.png"
-createdAt: "2024-02-11"
+title: 'Change Data Capture: Key to Leverage Real-time Data'
+description: Learn how Change Data Capture (CDC) helps leverage real-time data.
+image: >-
+  https://assets.bytebytego.com/diagrams/0133-change-data-capture-key-to-leverage-real-time-data.png
+createdAt: '2024-02-11'
 draft: false
 categories:
   - database-and-storage
 tags:
-  - "Data Streaming"
-  - "Data Synchronization"
+  - Data Streaming
+  - Data Synchronization
+titleZh: CDC（变更数据捕获）：撬动实时流数据的关键钥匙
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0133-change-data-capture-key-to-leverage-real-time-data.png)

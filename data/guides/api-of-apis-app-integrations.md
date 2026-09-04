@@ -1,6 +1,6 @@
 ---
-title: 'API of APIs - App Integrations'
-description: 'Explore API of APIs and app integrations in this detailed guide.'
+title: API of APIs - App Integrations
+description: Explore API of APIs and app integrations in this detailed guide.
 image: 'https://assets.bytebytego.com/diagrams/0426-api-of-apis-app-integrations.png'
 createdAt: '2024-02-13'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - API Integration
   - No-Code
+titleZh: API 之 API：现代应用集成架构
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0426-api-of-apis-app-integrations.png)

@@ -9,6 +9,7 @@ categories:
 tags:
   - Databases
   - Tech Stack
+titleZh: Netflix 技术栈剖析：多模型数据库体系
 ---
 
 ![diagram](https://assets.bytebytego.com/diagrams/0098-databases-used-in-netflix.jpg)

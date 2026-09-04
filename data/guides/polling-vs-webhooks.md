@@ -1,6 +1,6 @@
 ---
-title: "Polling vs Webhooks"
-description: "Polling vs webhooks: a detailed comparison of two data retrieval methods."
+title: Polling vs Webhooks
+description: 'Polling vs webhooks: a detailed comparison of two data retrieval methods.'
 image: 'https://assets.bytebytego.com/diagrams/0057-pooling-vs-webhook.png'
 createdAt: '2024-03-03'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - APIs
   - Webhooks
+titleZh: 轮询 vs Webhook 事件通知机制
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0057-pooling-vs-webhook.png)

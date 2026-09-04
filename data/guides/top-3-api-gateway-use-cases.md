@@ -1,6 +1,6 @@
 ---
-title: 'Top 3 API Gateway Use Cases'
-description: 'Explore the top 3 use cases for API gateways in modern architectures.'
+title: Top 3 API Gateway Use Cases
+description: Explore the top 3 use cases for API gateways in modern architectures.
 image: 'https://assets.bytebytego.com/diagrams/0073-top-3-api-gateway-use-cases.png'
 createdAt: '2024-02-16'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - API Gateway
   - Microservices
+titleZh: API 网关的三大核心应用场景
 ---
 
 ![Top 3 API Gateway Use Cases](https://assets.bytebytego.com/diagrams/0073-top-3-api-gateway-use-cases.png)

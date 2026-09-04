@@ -1,6 +1,6 @@
 ---
-title: "Netflix's Overall Architecture"
-description: "Explore Netflix's architecture: from frontend to backend services."
+title: Netflix's Overall Architecture
+description: 'Explore Netflix''s architecture: from frontend to backend services.'
 image: 'https://assets.bytebytego.com/diagrams/0288-netflix-overal-arch.png'
 createdAt: '2024-03-01'
 draft: false
@@ -9,6 +9,7 @@ categories:
 tags:
   - Architecture
   - Streaming
+titleZh: Netflix 全局系统架构全景解析
 ---
 
 ![](https://assets.bytebytego.com/diagrams/0288-netflix-overal-arch.png)
